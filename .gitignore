@@ -1,0 +1,10 @@
+
+/bin/
+
+# Eclipse/VS Code project files
+.classpath
+.project
+.settings/
+
+.vscode/
+*.log
